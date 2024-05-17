@@ -7,7 +7,8 @@ This project is aimed at beginners and intermediate enthusiasts
 who are interested in learning more about circuit design, PCB layout, and fabrication.
  
  
- ********************Repository Structure************
+ *Repository Structure
+ 
 Design Files: Contains all design-related files for the exposure unit.
 ------------
 Simulation Files: Includes the Proteus simulation file and the Arduino code in HEX format.
